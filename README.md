@@ -6,6 +6,8 @@ Assets from UE Market Place:
 
 - The Bazaar
 
+- Middle Eastern Town
+
 <p align="center">
   <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot1.png" width="1800" title="Screenshot1">
 </p>
