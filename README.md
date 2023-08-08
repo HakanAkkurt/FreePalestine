@@ -8,6 +8,10 @@ Assets from UE Market Place:
 
 - Middle Eastern Town
 
+Megascans:
+
+- Trampled Sandy Soil
+
 <p align="center">
   <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot1.png" width="1800" title="Screenshot1">
 </p>
