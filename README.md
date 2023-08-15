@@ -8,6 +8,12 @@ Assets from UE Market Place:
 
 - Middle Eastern Town
 
+- Vehicle Variety Pack
+
+- Industry Props Pack 6
+
+- Megascans - Post-Apocalyptic Street
+
 Megascans:
 
 - Trampled Sandy Soil
