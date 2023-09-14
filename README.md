@@ -35,6 +35,10 @@ Assets from UE Market Place:
 
 - Command 9S552 (East)
 
+- M109 howitzer(West)
+
+- Modular Military Operation Urban Training Environment - Arabian Pack 
+
 
 Megascans:
 
