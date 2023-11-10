@@ -45,6 +45,24 @@ Assets from UE Market Place:
 
 - M109 howitzer(West)
 
+- M1126 Stryker ICV (West)
+
+- M1133 Stryker MEV (West)
+
+- SAM Buk-M1-2 (East)
+
+- AA ZSU-23-4 Shilka (East)
+
+- IFV M1134 ATGM Stryker (West)
+
+- Tank T72B (East)
+
+- UH60A Blackhawk (West)
+
+- MRAP Oshkosh (West)
+
+- 2S3 Akatsiya Self-propelled howitzer (East)
+
 - Modular Military Operation Urban Training Environment - Arabian Pack
 
 - Megascans - Asphalt Vol. 1
