@@ -4,27 +4,27 @@ A shooter game localized in Jerusalem, Palestine.
 
 
 <p align="center">
-  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot1.png" width="1800" title="Screenshot1">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot1.jpg" width="1800" title="Screenshot1">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot2.png" width="1800" title="Screenshot2">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot2.jpg" width="1800" title="Screenshot2">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot3.png" width="1800" title="Screenshot3">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot3.jpg" width="1800" title="Screenshot3">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot4.png" width="1800" title="Screenshot4">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot4.jpg" width="1800" title="Screenshot4">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot5.png" width="1800" title="Screenshot5">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot5.jpg" width="1800" title="Screenshot5">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot6.png" width="1800" title="Screenshot6">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot6.jpg" width="1800" title="Screenshot6">
 </p>
 
 Assets from UE Market Place:
