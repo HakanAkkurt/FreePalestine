@@ -27,6 +27,15 @@ A shooter game localized in Jerusalem, Palestine.
   <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot6.jpg" width="1800" title="Screenshot6">
 </p>
 
+<p align="center">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot7.jpg" width="1800" title="Screenshot6">
+</p>
+
+<p align="center">
+  <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot8.jpg" width="1800" title="Screenshot6">
+</p>
+
+
 Assets from UE Market Place:
 
 - The Bazaar
@@ -74,6 +83,9 @@ Assets from UE Market Place:
 - Old West - VOL 4 - Goods and Supplies
 
 - Food Pack 01
+
+- "Dome of the rock 3D model" (https://skfb.ly/oOPLr) by fadla
+   is licensed under Creative Commons Attribution-NoDerivs (http://creativecommons.org/licenses/by-nd/4.0/).
 
 
 Megascans:
