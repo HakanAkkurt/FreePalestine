@@ -35,6 +35,10 @@ A shooter game localized in Jerusalem, Palestine.
   <img src="https://github.com/HakanAkkurt/FreePalestine/blob/master/Screenshots/Screenshot8.jpg" width="1800" title="Screenshot6">
 </p>
 
+Trailer:
+
+https://www.youtube.com/watch?v=BbvvEyOqB0w
+
 
 Assets from UE Market Place:
 
