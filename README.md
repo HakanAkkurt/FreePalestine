@@ -1,6 +1,6 @@
 # FreePalestine
 
-A shooter game localized in Jerusalem, Palestine.
+Middle East City - Jerusalem (Palestine) like Level Design with UE5
 
 
 <p align="center">
